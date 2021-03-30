@@ -40,5 +40,3 @@ async def on_message(message):
 client.run('Token id')
 
 #Kartik Shukla
-#B190697CS
-#For achieving a rank of 12 and creating a record for best rank in google hashcode
